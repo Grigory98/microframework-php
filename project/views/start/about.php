@@ -1,0 +1,1 @@
+<h1 align='center'>Information about this site</h1>
