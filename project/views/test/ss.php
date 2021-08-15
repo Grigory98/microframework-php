@@ -1,3 +1,0 @@
-TESThtml
-
-<?=$var1?>
